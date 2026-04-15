@@ -11,7 +11,7 @@
 
 ---
 
-## 🍷 About Me
+## About Me
 
 **Software Engineer** with **1+ year of hands-on experience** in **Industrial IoT (IIoT)** and **Automation Systems**. Passionate about bridging the gap between physical machines and digital intelligence through real-time data, robust architectures, and intuitive interfaces.
 
@@ -22,7 +22,7 @@
 
 ---
 
-## 💼 Professional Experience
+## Professional Experience
 
 ### **Full Stack Developer** — Acceedo  
 **Aug 2025 – Present**
@@ -35,7 +35,7 @@
 
 ---
 
-## 🛠️ Tech Stack
+## Tech Stack
 
 ![JavaScript](https://img.shields.io/badge/JavaScript-800020?style=for-the-badge&logo=javascript&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TypeScript-800020?style=for-the-badge&logo=typescript&logoColor=white)
@@ -51,7 +51,7 @@
 
 ---
 
-## 🔥 Featured Projects
+## Featured Projects
 
 ### **Desktop Automation Application**
 - Built a robust Electron-based desktop application for industrial automation  
@@ -67,7 +67,7 @@
 
 ---
 
-## 📊 GitHub Stats
+## GitHub Stats
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=SriramSU96&show_icons=true&theme=radical&title_color=9f1239&icon_color=9f1239&text_color=e0e7ff&bg_color=1a0f14&hide_border=true&border_radius=15" />
@@ -75,7 +75,7 @@
 </p>
 ---
 
-## 📈 Contribution Graph
+## Contribution Graph
 
 [![Sriram's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=SriramSU96&bg_color=0d1117&color=800020&line=800020&point=#000000&area=true&hide_border=true)](https://github.com/SriramSU96)
 
