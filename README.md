@@ -73,8 +73,8 @@
   <img src="https://github-readme-stats.vercel.app/api?username=SriramSU96&show_icons=true&theme=radical&title_color=9f1239&icon_color=9f1239&text_color=e0e7ff&bg_color=1a0f14&hide_border=true&border_radius=15" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=SriramSU96&theme=radical&ring=9f1239&fire=9f1239&currStreakLabel=9f1239&sideLabels=e0e7ff&sideNums=e0e7ff&background=1a0f14&hide_border=true&border_radius=15" />
 </p>
----
 
+---
 ## Contribution Graph
 
 [![Sriram's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=SriramSU96&bg_color=0d1117&color=800020&line=800020&point=#000000&area=true&hide_border=true)](https://github.com/SriramSU96)
@@ -88,6 +88,5 @@ Frontend Developer focused on IIoT applications
 
 ## 📫 Let's Connect
 
-- 📧 **Email**: [sriramsekar9600@gmail.com](mailto:sriramsekar9600@gmail.com)  
-- 💼 **LinkedIn**: [linkedin.com/in/sriramsu](https://linkedin.com/in/sriramsu) *(update with your actual profile)*  
+- 📧 **Email**: [sriramsekar9600@gmail.com](mailto:sriramsekar9600@gmail.com)   
 - 🌐 **GitHub**: [@SriramSU96](https://github.com/SriramSU96)
