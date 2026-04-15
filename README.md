@@ -77,7 +77,7 @@
 
 ## 📈 Contribution Graph
 
-[![Sriram's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=SriramSU96&bg_color=0d1117&color=800020&line=800020&point=ffffff&area=true&hide_border=true)](https://github.com/SriramSU96)
+[![Sriram's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=SriramSU96&bg_color=0d1117&color=800020&line=800020&point=#000000&area=true&hide_border=true)](https://github.com/SriramSU96)
 
 ---
 
